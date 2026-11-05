@@ -38,9 +38,7 @@ On Windows with Python 3.11 or newer, open PowerShell in the repository folder a
 & '.\run_dysociate.ps1'
 ```
 
-- [User manual](docs/User_Manual.md)
-- [Developer guide](docs/DEVELOPER_GUIDE.md)
-- [Privacy and file handling](docs/PRIVACY.md)
+
 
 ## License
 
